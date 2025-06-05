@@ -119,7 +119,7 @@ Below is a high-level view of the main tables in the schema (columns shown for c
 
 ### 4.1. Clone the Repository
 
-```bash[
+```sql
 git clone https://github.com/EaruvaTeja/Aircargo-Database.git
 cd Aircargo-Database
 ```
@@ -776,7 +776,7 @@ Stored procedure tries to query a table that is not yet created.
 You can place relevant screenshots in an `/images` folder and reference them like so:
 
 ```markdown
-![ER Diagram](Aircargo Database EER diagram.pdf)
+[ER Diagram](Aircargo Database EER diagram.pdf)
 ```
 
 * **Screenshot :** 
@@ -809,9 +809,11 @@ Feel free to clone this repo, customize the queries, and integrate them into you
 
 **Author:**  
 ## Earuva Teja  
-**Certification:** ![Simplilearn :](SQL Certification Simplilearn.pdf) 
-**Repository:**  
-[https://github.com/EaruvaTeja/Aircargo-Database/](https://github.com/EaruvaTeja/Aircargo-Database/)  
+
+**Certification:** [Certificate](SQL Certification Simplilearn.pdf)  
+
+**Repository:** [Link](https://github.com/EaruvaTeja/Aircargo-Database/)  
 
 **License:**  
 MIT  
+
