@@ -810,7 +810,7 @@ Feel free to clone this repo, customize the queries, and integrate them into you
 **Author:**  
 ## Earuva Teja  
 
-**Certification:** ([SQL Certification Simplilearn.pdf](https://github.com/EaruvaTeja/Aircargo-Database/blob/main/SQL%20Certification%20Simplilearn.pdf))  
+**Certification:** [SQL Certification Simplilearn.pdf](https://github.com/EaruvaTeja/Aircargo-Database/blob/main/SQL%20Certification%20Simplilearn.pdf)
 
 **Repository:** [Link](https://github.com/EaruvaTeja/Aircargo-Database/)  
 
