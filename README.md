@@ -119,9 +119,9 @@ Below is a high-level view of the main tables in the schema (columns shown for c
 
 ### 4.1. Clone the Repository
 
-```bash
-git clone https://github.com/<your-username>/AircargoDB-MySQL-Scripts.git
-cd AircargoDB-MySQL-Scripts
+```bash[
+git clone https://github.com/EaruvaTeja/Aircargo-Database.git
+cd Aircargo-Database
 ```
 
 ### 4.2. Create & Use the Database
@@ -776,13 +776,14 @@ Stored procedure tries to query a table that is not yet created.
 You can place relevant screenshots in an `/images` folder and reference them like so:
 
 ```markdown
-![ER Diagram](images/er_diagram.png)
+![ER Diagram](Aircargo Database EER diagram.pdf)
 ```
 
-* **Screenshot 1:** ER Diagram of AircargoDB
-* **Screenshot 2:** Sample output of `CALL GetPassengersByRouteRange(1,100)`
-* **Screenshot 3:** EXPLAIN plan showing index usage on `passengers_on_flights`
-* **Screenshot 4:** Output of `SELECT * FROM route_details;`
+* **Screenshot :** 
+  ** ER Diagram of AircargoDB
+  ** Sample output of `CALL GetPassengersByRouteRange(1,100)`
+  ** EXPLAIN plan showing index usage on `passengers_on_flights`
+  ** Output of `SELECT * FROM route_details;`
 
 ---
 
@@ -804,7 +805,13 @@ Feel free to clone this repo, customize the queries, and integrate them into you
 **Happy querying!**
 
 ---
+ 
 
-**Author:** \[Earuva Teja]
-**Repository:** [https://github.com/]([(https://github.com/EaruvaTeja/Aircargo-Database/)])<EaruvaTeja>/Aircargo Database
-**License:** MIT 
+**Author:**  
+## Earuva Teja  
+**Certification:** ![Simplilearn :](SQL Certification Simplilearn.pdf) 
+**Repository:**  
+[https://github.com/EaruvaTeja/Aircargo-Database/](https://github.com/EaruvaTeja/Aircargo-Database/)  
+
+**License:**  
+MIT  
